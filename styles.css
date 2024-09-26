@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  background-color: rgb(62, 2, 117);
+  text-align: center;
+  color: white;
+}
+
+h1{
+  font-size: 5rem; 
+  padding: 90px 200px 0 200px;
+  margin: 0;
+}
+
+p{
+  font-size: 20px;
+  padding: 0 400px;
+  margin-bottom: 50px;
+}
+
+nav{
+  padding-top: 20px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.btn{
+  background-color: rgb(243, 62, 219);
+  color: rgb(62, 2, 117);
+  border: 4px white solid;
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
